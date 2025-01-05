@@ -1,4 +1,4 @@
-<!--
+ <!--
 THIS FILE IS GENERATED. DO NOT EDIT IT DIRECTLY. EDIT THE TEMPLATE IN `docgen/snippets/readme.md` INSTEAD.
  -->
 
